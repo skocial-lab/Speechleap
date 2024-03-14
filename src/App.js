@@ -1,25 +1,16 @@
-import logo from './logo.svg';
 import './App.css';
+import Waveform from './WaveForm'
+import Chat from './bubbles'
+import clipwav from './/assets/media/live.mp3'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+const App = () => (
+  <>
+    <h1>WaveSurfer Demo</h1>
+    <div className='container'>
+      <Waveform audio={clipwav} />
+      <Chat></Chat>
     </div>
-  );
-}
+  </>
+)
 
 export default App;
