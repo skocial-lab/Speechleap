@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/text-highlighter-react/static/css/main.f551cf04.css",
-    "main.js": "/text-highlighter-react/static/js/main.a1576727.js",
-    "static/js/592.2aa3bc44.chunk.js": "/text-highlighter-react/static/js/592.2aa3bc44.chunk.js",
-    "static/media/live.mp3": "/text-highlighter-react/static/media/live.b828db0344427f3ff2bf.mp3",
-    "index.html": "/text-highlighter-react/index.html",
-    "main.f551cf04.css.map": "/text-highlighter-react/static/css/main.f551cf04.css.map",
-    "main.a1576727.js.map": "/text-highlighter-react/static/js/main.a1576727.js.map",
-    "592.2aa3bc44.chunk.js.map": "/text-highlighter-react/static/js/592.2aa3bc44.chunk.js.map"
+    "main.css": "/Speechleap/static/css/main.f551cf04.css",
+    "main.js": "/Speechleap/static/js/main.c53fdf63.js",
+    "static/js/592.3e5dbdce.chunk.js": "/Speechleap/static/js/592.3e5dbdce.chunk.js",
+    "static/media/live.mp3": "/Speechleap/static/media/live.b828db0344427f3ff2bf.mp3",
+    "index.html": "/Speechleap/index.html",
+    "main.f551cf04.css.map": "/Speechleap/static/css/main.f551cf04.css.map",
+    "main.c53fdf63.js.map": "/Speechleap/static/js/main.c53fdf63.js.map",
+    "592.3e5dbdce.chunk.js.map": "/Speechleap/static/js/592.3e5dbdce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f551cf04.css",
-    "static/js/main.a1576727.js"
+    "static/js/main.c53fdf63.js"
   ]
 }
