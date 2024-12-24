@@ -30,6 +30,10 @@ const Waveform = ({ audio }) => {
             var t = waveSurfer.getCurrentTime();
             Highlight(t);
         })
+        waveSurfer.on('error', (e) => {
+            console.error('Error decoding audio data:', e);
+        });
+        
         return () => {
             waveSurfer.destroy()
         }
